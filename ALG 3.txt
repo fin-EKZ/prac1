@@ -1,0 +1,9 @@
+ask the user to enter a 
+ask the user to enter b
+set ans to (a 'x' b)
+IF x is '+' THEN print 'a+b'
+IF x is '-' THEN print 'a-b'
+IF x is '*' THEN print 'a*b'
+IF x is '/' THEN print 'a/b'
+IF x is '%' THEN print 'a%b'
+ELSE print 'error'
