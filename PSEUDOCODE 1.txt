@@ -1,0 +1,16 @@
+START
+
+// 3 variables
+input 1 'x'
+input 2 'y'
+input 3 'z'
+
+IF a>=b AND a>=c THEN
+ max no is a
+IF b>=a AND b>=c THEN
+ max no is b
+ELSE c is max no 
+
+//print max no
+
+END
