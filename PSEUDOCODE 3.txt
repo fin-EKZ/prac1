@@ -1,0 +1,14 @@
+START
+
+//3 variable
+INPUT:a,x,b
+
+IF x== '+' THEN
+PRINT a+b
+
+ELSE x== '-' THEN
+PRINT a-b
+
+//answer
+
+END
