@@ -1,0 +1,16 @@
+ask user to enter the number
+set the number 1 to jan
+set the number 2 to feb
+set the number 3 to march
+set the number 4 to april
+set the number 5 to may
+set the number 6 to june
+set the number 7 to july
+set the number 8 to aug
+set the number 9 to sept
+set the number 10 to oct
+set the number 11 to nov
+set the number 12 to dec
+display number for user
+
+
