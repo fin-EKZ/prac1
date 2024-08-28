@@ -1,0 +1,8 @@
+ask the user to enter the number n
+ask the user to enter the number nth
+set ans to (n / nth)
+IF nth is divisor of n
+THEN reminder is 0
+IF 2 is divisor by n 
+THEN set to even
+ELSE set to odd
