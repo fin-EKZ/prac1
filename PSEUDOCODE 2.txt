@@ -1,0 +1,12 @@
+START
+
+//three inputs
+INPUTS=x,y,z
+
+set sum to 0
+
+set sum to (a)-(-b)-(-c)
+
+OUTPUT: SUM 
+
+END
